@@ -64,13 +64,13 @@ const getRating = (list = [], key = '') => {
 		ratings.forEach(({ values = {} }) => {
 			// Value exists?
 			if (values[key]) {
-				rating += Number(values[key]);
+				rating += Number(values[key]) / ratings.length;
 			}
 		});
 	});
 
 	// Expose number.
-	return rating;
+	return rating / list.length;
 };
 
 // ==========
