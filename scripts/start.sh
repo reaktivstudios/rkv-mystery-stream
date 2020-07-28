@@ -1,3 +1,3 @@
-cross-env \
-'SKIP_PREFLIGHT_CHECK=true' \
-react-scripts start \
+run-p \
+start-server \
+start-react \

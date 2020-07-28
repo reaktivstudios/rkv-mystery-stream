@@ -1,17 +1,42 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(
-	<React.StrictMode>
+// ===================
+// Third party styles.
+// ===================
+
+import '@progress/kendo-theme-material/dist/all.css';
+
+// =======
+// Styles.
+// =======
+
+import './index.css';
+
+// ==========
+// App state.
+// ==========
+
+import { AppStateProvider } from './reducers';
+
+// ===
+// UI.
+// ===
+
+import App from './App';
+
+// ===========
+// Render app.
+// ===========
+
+const app = (
+	<AppStateProvider>
 		<App />
-	</React.StrictMode>,
-	document.getElementById('root')
+	</AppStateProvider>
 );
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+const root = document.getElementById('root');
+
+if (root) {
+	ReactDOM.render(app, root);
+}
