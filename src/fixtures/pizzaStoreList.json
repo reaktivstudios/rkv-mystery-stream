@@ -19,7 +19,7 @@
 					{
 						"date": "2018-07-10T01:57:04+00:00",
 						"values": {
-							"customer": 3,
+							"customer": "3",
 							"staff_satisfaction": "3.5",
 							"sales": "2.5",
 							"cleanliness": "2.1"
@@ -40,7 +40,7 @@
 							"customer": "1.1",
 							"staff_satisfaction": "4.4",
 							"sales": "2.1",
-							"cleanliness": 3
+							"cleanliness": "3"
 						}
 					}
 				]
@@ -55,7 +55,7 @@
 							"customer": "0.4",
 							"staff_satisfaction": "1.2",
 							"sales": "1.7",
-							"cleanliness": 3
+							"cleanliness": "3"
 						}
 					},
 					{
@@ -76,7 +76,7 @@
 					{
 						"date": "2017-07-11T00:30:46+00:00",
 						"values": {
-							"customer": 2,
+							"customer": "2",
 							"staff_satisfaction": "1.5",
 							"sales": "4.4",
 							"cleanliness": "2.6"
@@ -85,7 +85,7 @@
 					{
 						"date": "2018-01-30T17:28:10+00:00",
 						"values": {
-							"customer": 5,
+							"customer": "5",
 							"staff_satisfaction": "3.5",
 							"sales": "2.4",
 							"cleanliness": "2.8"
@@ -103,10 +103,10 @@
 					{
 						"date": "2018-05-09T02:27:29+00:00",
 						"values": {
-							"customer": 3,
+							"customer": "3",
 							"staff_satisfaction": "3.7",
 							"sales": "1.4",
-							"cleanliness": 4
+							"cleanliness": "4"
 						}
 					}
 				]
@@ -120,7 +120,7 @@
 						"values": {
 							"customer": "2.7",
 							"staff_satisfaction": "4.6",
-							"sales": 1,
+							"sales": "1",
 							"cleanliness": "2.8"
 						}
 					},
@@ -160,16 +160,16 @@
 					{
 						"date": "2019-04-13T12:52:21+00:00",
 						"values": {
-							"customer": 2,
+							"customer": "2",
 							"staff_satisfaction": "0.1",
-							"sales": 5,
-							"cleanliness": 5
+							"sales": "5",
+							"cleanliness": "5"
 						}
 					},
 					{
 						"date": "2018-03-31T16:59:27+00:00",
 						"values": {
-							"customer": 0,
+							"customer": "0",
 							"staff_satisfaction": "0.5",
 							"sales": "1.9",
 							"cleanliness": "4.1"
@@ -179,9 +179,9 @@
 						"date": "2019-08-03T15:23:36+00:00",
 						"values": {
 							"customer": "1.7",
-							"staff_satisfaction": 0,
+							"staff_satisfaction": "0",
 							"sales": "3.2",
-							"cleanliness": 5
+							"cleanliness": "5"
 						}
 					},
 					{
@@ -197,8 +197,8 @@
 						"date": "2017-09-28T12:54:20+00:00",
 						"values": {
 							"customer": "3.5",
-							"staff_satisfaction": 2,
-							"sales": 4,
+							"staff_satisfaction": "2",
+							"sales": "4",
 							"cleanliness": "2.5"
 						}
 					}
@@ -232,7 +232,7 @@
 							"customer": "1.5",
 							"staff_satisfaction": "4.8",
 							"sales": "4.5",
-							"cleanliness": 1
+							"cleanliness": "1"
 						}
 					}
 				]
@@ -247,14 +247,14 @@
 							"customer": "2.7",
 							"staff_satisfaction": "4.2",
 							"sales": "4.3",
-							"cleanliness": 4
+							"cleanliness": "4"
 						}
 					},
 					{
 						"date": "2018-11-26T18:00:42+00:00",
 						"values": {
 							"customer": "4.1",
-							"staff_satisfaction": 3,
+							"staff_satisfaction": "3",
 							"sales": "1.4",
 							"cleanliness": "1.2"
 						}
@@ -302,7 +302,7 @@
 						"date": "2017-06-09T17:43:50+00:00",
 						"values": {
 							"customer": "1.2",
-							"staff_satisfaction": 3,
+							"staff_satisfaction": "3",
 							"sales": "2.5",
 							"cleanliness": "0.3"
 						}
@@ -331,7 +331,7 @@
 							"customer": "0.4",
 							"staff_satisfaction": "3.8",
 							"sales": "3.7",
-							"cleanliness": 4
+							"cleanliness": "4"
 						}
 					}
 				]
@@ -346,14 +346,14 @@
 							"customer": "0.6",
 							"staff_satisfaction": "1.1",
 							"sales": "3.8",
-							"cleanliness": 4
+							"cleanliness": "4"
 						}
 					},
 					{
 						"date": "2019-12-25T23:10:58+00:00",
 						"values": {
 							"customer": "3.7",
-							"staff_satisfaction": 3,
+							"staff_satisfaction": "3",
 							"sales": "3.8",
 							"cleanliness": "3.4"
 						}
@@ -362,7 +362,7 @@
 						"date": "2017-04-17T12:23:41+00:00",
 						"values": {
 							"customer": "3.8",
-							"staff_satisfaction": 0,
+							"staff_satisfaction": "0",
 							"sales": "4.5",
 							"cleanliness": "3.4"
 						}
@@ -379,15 +379,15 @@
 							"customer": "0.6",
 							"staff_satisfaction": "4.5",
 							"sales": "3.3",
-							"cleanliness": 1
+							"cleanliness": "1"
 						}
 					},
 					{
 						"date": "2017-10-24T23:17:12+00:00",
 						"values": {
 							"customer": "2.2",
-							"staff_satisfaction": 0,
-							"sales": 2,
+							"staff_satisfaction": "0",
+							"sales": "2",
 							"cleanliness": "2.9"
 						}
 					},
@@ -395,7 +395,7 @@
 						"date": "2018-06-14T03:19:53+00:00",
 						"values": {
 							"customer": "4.6",
-							"staff_satisfaction": 0,
+							"staff_satisfaction": "0",
 							"sales": "0.9",
 							"cleanliness": "1.7"
 						}
@@ -436,7 +436,7 @@
 					{
 						"date": "2017-07-23T22:06:44+00:00",
 						"values": {
-							"customer": 4,
+							"customer": "4",
 							"staff_satisfaction": "0.8",
 							"sales": "4.2",
 							"cleanliness": "0.4"
@@ -451,16 +451,16 @@
 					{
 						"date": "2017-11-12T15:09:22+00:00",
 						"values": {
-							"customer": 3,
+							"customer": "3",
 							"staff_satisfaction": "3.3",
-							"sales": 3,
+							"sales": "3",
 							"cleanliness": "2.4"
 						}
 					},
 					{
 						"date": "2018-05-04T12:03:18+00:00",
 						"values": {
-							"customer": 3,
+							"customer": "3",
 							"staff_satisfaction": "4.8",
 							"sales": "4.5",
 							"cleanliness": "1.1"
@@ -512,7 +512,7 @@
 						"date": "2019-05-26T10:01:10+00:00",
 						"values": {
 							"customer": "3.9",
-							"staff_satisfaction": 2,
+							"staff_satisfaction": "2",
 							"sales": "3.5",
 							"cleanliness": "3.1"
 						}
@@ -526,7 +526,7 @@
 					{
 						"date": "2020-05-25T11:09:59+00:00",
 						"values": {
-							"customer": 5,
+							"customer": "5",
 							"staff_satisfaction": "0.1",
 							"sales": "3.1",
 							"cleanliness": "4.6"
@@ -578,7 +578,7 @@
 						"date": "2017-06-29T20:49:35+00:00",
 						"values": {
 							"customer": "3.5",
-							"staff_satisfaction": 5,
+							"staff_satisfaction": "5",
 							"sales": "0.1",
 							"cleanliness": "0.2"
 						}
@@ -637,7 +637,7 @@
 							"customer": "3.1",
 							"staff_satisfaction": "4.9",
 							"sales": "1.9",
-							"cleanliness": 5
+							"cleanliness": "5"
 						}
 					},
 					{
@@ -660,7 +660,7 @@
 						"values": {
 							"customer": "2.6",
 							"staff_satisfaction": "2.8",
-							"sales": 3,
+							"sales": "3",
 							"cleanliness": "4.7"
 						}
 					},
@@ -676,9 +676,9 @@
 					{
 						"date": "2018-12-13T09:06:51+00:00",
 						"values": {
-							"customer": 3,
+							"customer": "3",
 							"staff_satisfaction": "0.2",
-							"sales": 1,
+							"sales": "1",
 							"cleanliness": "2.3"
 						}
 					},
@@ -736,13 +736,13 @@
 							"customer": "4.9",
 							"staff_satisfaction": "1.6",
 							"sales": "3.9",
-							"cleanliness": 0
+							"cleanliness": "0"
 						}
 					},
 					{
 						"date": "2017-11-13T22:56:01+00:00",
 						"values": {
-							"customer": 2,
+							"customer": "2",
 							"staff_satisfaction": "2.2",
 							"sales": "3.8",
 							"cleanliness": "3.9"
@@ -811,7 +811,7 @@
 							"customer": "3.9",
 							"staff_satisfaction": "0.7",
 							"sales": "2.9",
-							"cleanliness": 5
+							"cleanliness": "5"
 						}
 					},
 					{
@@ -827,7 +827,7 @@
 						"date": "2020-01-17T18:35:21+00:00",
 						"values": {
 							"customer": "0.7",
-							"staff_satisfaction": 0,
+							"staff_satisfaction": "0",
 							"sales": "1.5",
 							"cleanliness": "4.2"
 						}
@@ -869,7 +869,7 @@
 						"date": "2019-08-05T14:07:57+00:00",
 						"values": {
 							"customer": "0.1",
-							"staff_satisfaction": 2,
+							"staff_satisfaction": "2",
 							"sales": "4.4",
 							"cleanliness": "4.9"
 						}
@@ -912,7 +912,7 @@
 						"values": {
 							"customer": "3.3",
 							"staff_satisfaction": "0.5",
-							"sales": 1,
+							"sales": "1",
 							"cleanliness": "1.3"
 						}
 					},
@@ -928,7 +928,7 @@
 					{
 						"date": "2017-12-04T15:24:25+00:00",
 						"values": {
-							"customer": 5,
+							"customer": "5",
 							"staff_satisfaction": "3.9",
 							"sales": "3.7",
 							"cleanliness": "4.1"
@@ -946,7 +946,7 @@
 							"customer": "1.2",
 							"staff_satisfaction": "1.5",
 							"sales": "3.3",
-							"cleanliness": 5
+							"cleanliness": "5"
 						}
 					},
 					{
@@ -976,7 +976,7 @@
 					{
 						"date": "2017-10-07T02:10:24+00:00",
 						"values": {
-							"customer": 3,
+							"customer": "3",
 							"staff_satisfaction": "0.5",
 							"sales": "1.7",
 							"cleanliness": "2.8"
@@ -1049,7 +1049,7 @@
 						"date": "2017-07-03T09:48:21+00:00",
 						"values": {
 							"customer": "1.4",
-							"staff_satisfaction": 2,
+							"staff_satisfaction": "2",
 							"sales": "1.7",
 							"cleanliness": "4.7"
 						}
@@ -1060,7 +1060,7 @@
 							"customer": "3.6",
 							"staff_satisfaction": "0.4",
 							"sales": "1.3",
-							"cleanliness": 0
+							"cleanliness": "0"
 						}
 					},
 					{
@@ -1090,9 +1090,9 @@
 					{
 						"date": "2018-06-12T17:54:36+00:00",
 						"values": {
-							"customer": 4,
+							"customer": "4",
 							"staff_satisfaction": "1.4",
-							"sales": 3,
+							"sales": "3",
 							"cleanliness": "4.1"
 						}
 					},
@@ -1100,7 +1100,7 @@
 						"date": "2019-07-15T18:07:47+00:00",
 						"values": {
 							"customer": "0.5",
-							"staff_satisfaction": 4,
+							"staff_satisfaction": "4",
 							"sales": "3.4",
 							"cleanliness": "0.1"
 						}
@@ -1132,10 +1132,10 @@
 					{
 						"date": "2019-05-28T11:40:32+00:00",
 						"values": {
-							"customer": 1,
+							"customer": "1",
 							"staff_satisfaction": "0.3",
 							"sales": "1.5",
-							"cleanliness": 5
+							"cleanliness": "5"
 						}
 					},
 					{
@@ -1144,14 +1144,14 @@
 							"customer": "0.2",
 							"staff_satisfaction": "3.6",
 							"sales": "4.5",
-							"cleanliness": 4
+							"cleanliness": "4"
 						}
 					},
 					{
 						"date": "2018-02-15T17:28:45+00:00",
 						"values": {
-							"customer": 0,
-							"staff_satisfaction": 1,
+							"customer": "0",
+							"staff_satisfaction": "1",
 							"sales": "1.8",
 							"cleanliness": "3.5"
 						}
@@ -1168,7 +1168,7 @@
 							"customer": "1.2",
 							"staff_satisfaction": "2.7",
 							"sales": "0.3",
-							"cleanliness": 2
+							"cleanliness": "2"
 						}
 					},
 					{
@@ -1216,9 +1216,9 @@
 					{
 						"date": "2017-06-23T09:32:45+00:00",
 						"values": {
-							"customer": 5,
+							"customer": "5",
 							"staff_satisfaction": "2.6",
-							"sales": 4,
+							"sales": "4",
 							"cleanliness": "0.4"
 						}
 					},
@@ -1258,10 +1258,10 @@
 					{
 						"date": "2017-06-15T09:16:30+00:00",
 						"values": {
-							"customer": 4,
+							"customer": "4",
 							"staff_satisfaction": "4.8",
 							"sales": "2.4",
-							"cleanliness": 4
+							"cleanliness": "4"
 						}
 					},
 					{
@@ -1270,7 +1270,7 @@
 							"customer": "1.8",
 							"staff_satisfaction": "4.7",
 							"sales": "4.3",
-							"cleanliness": 0
+							"cleanliness": "0"
 						}
 					},
 					{
@@ -1301,8 +1301,8 @@
 						"date": "2018-04-21T16:04:07+00:00",
 						"values": {
 							"customer": "3.3",
-							"staff_satisfaction": 3,
-							"sales": 4,
+							"staff_satisfaction": "3",
+							"sales": "4",
 							"cleanliness": "3.2"
 						}
 					},
@@ -1310,8 +1310,8 @@
 						"date": "2018-05-23T04:25:00+00:00",
 						"values": {
 							"customer": "1.2",
-							"staff_satisfaction": 5,
-							"sales": 1,
+							"staff_satisfaction": "5",
+							"sales": "1",
 							"cleanliness": "1.5"
 						}
 					},
@@ -1319,9 +1319,9 @@
 						"date": "2020-01-18T23:54:05+00:00",
 						"values": {
 							"customer": "1.3",
-							"staff_satisfaction": 5,
+							"staff_satisfaction": "5",
 							"sales": "0.3",
-							"cleanliness": 4
+							"cleanliness": "4"
 						}
 					}
 				]
