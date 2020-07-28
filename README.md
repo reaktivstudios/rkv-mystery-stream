@@ -2,7 +2,7 @@
 
 **Description:**
 
-This repo was created for the Progress (Twitch) broadcast "mystery stream," on July 28th 2020.
+This repo was created for the "Code It Live" (Twitch) broadcast "mystery stream," on July 28th 2020.
 
 ---
 
