@@ -56,21 +56,28 @@ const getRestaurantsByRegion = (list = [], region = '') => {
 
 const getRating = (list = [], key = '') => {
 	// Set later.
-	let rating = 0;
+	let total = 0;
 
 	// Loop through.
 	list.forEach(({ ratings = [] }) => {
+		// Subtotal.
+		let subtotal = 0;
+
 		// Loop through.
 		ratings.forEach(({ values = {} }) => {
 			// Value exists?
 			if (values[key]) {
-				rating += Number(values[key]) / ratings.length;
+				// Add to subtotal.
+				subtotal += Number(values[key]);
 			}
 		});
+
+		// Average subtotal.
+		total += subtotal / ratings.length;
 	});
 
-	// Expose number.
-	return rating / list.length;
+	// Average total.
+	return total / list.length;
 };
 
 // ==========
