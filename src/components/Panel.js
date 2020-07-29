@@ -73,11 +73,11 @@ const getRating = (list = [], key = '') => {
 		});
 
 		// Average subtotal.
-		total += subtotal / ratings.length;
+		total += subtotal / (ratings.length || 1);
 	});
 
 	// Average total.
-	return total / list.length;
+	return total / (list.length || 1);
 };
 
 // ==========
